@@ -1,0 +1,63 @@
+[
+  {
+    "name": "News",
+    "alias": "news",
+    "type": 0,
+    "children": [
+      {
+        "name": "Business",
+        "alias": "business",
+        "ord": 0
+      },
+      {
+        "name": "Culture",
+        "alias": "culture",
+        "ord": 1
+      },
+      {
+        "name": "Design",
+        "alias": "design",
+        "ord": 0
+      }
+    ]
+  },
+  {
+    "name": "Blogs",
+    "alias": "blogs",
+    "type": 1,
+    "children": [
+      {
+        "name": "Social",
+        "alias": "social",
+        "ord": 0
+      },
+      {
+        "name": "Startups",
+        "alias": "startups",
+        "ord": 1
+      }
+    ]
+  },
+  {
+    "name": "Forum",
+    "alias": "forums",
+    "type": 2,
+    "children": [
+      {
+        "name": "Ideas",
+        "alias": "ideas",
+        "ord": 0
+      },
+      {
+        "name": "Technologies",
+        "alias": "technologies",
+        "ord": 1
+      },
+      {
+        "name": "Startups",
+        "alias": "startups",
+        "ord": 2
+      }
+    ]
+  }
+]
